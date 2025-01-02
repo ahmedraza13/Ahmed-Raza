@@ -40,8 +40,8 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-raza&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmed-raza&theme=radical" alt="Ahmed's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedraza13&show_icons=true&theme=radical" alt="Ahmed's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedraza13&theme=radical" alt="Ahmed's GitHub Streak" />
 </p>
 
 ---
@@ -50,5 +50,11 @@
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/ahmedraza13"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
- 
+</p>
+
+---
+
+### 📊 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ahmedraza13&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
